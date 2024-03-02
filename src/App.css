@@ -1,0 +1,14 @@
+html{
+  scroll-behavior: smooth;
+}
+.App {
+  text-align: center;
+  overflow: hidden;
+}
+
+.flexi
+{
+  display:flex;
+  width: 900px;
+
+}
